@@ -7,7 +7,7 @@ from PyQt5.Qt import *
 from PyQt5.QtWidgets import QDialog, QApplication, QLabel, QComboBox, QVBoxLayout, QMessageBox
 
 """ Credentials and urls """
-headers = {"Client-Identifier":"968d4bd58084216e7602d9c4d06506b8"}
+headers = {"Client-Identifier":" MY-CLIENT-IDENTIFIER "}
 url = 'https://oslobysykkel.no/api/v1'
 _stations = "/stations"
 _availability = "/stations/availability"
