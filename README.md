@@ -1,7 +1,8 @@
-### Oslo Bysykkel Demo
+## Oslo Bysykkel Demo
 A python Qt5 desktop app for checking available bikes and locks from Oslo Bysykkel at a given station.
 
-## Getting started
+### Getting started
+Clone the project:
 ```sh
 git clone https://github.com/huse007/oslobysykkeldemo.git
 ```
