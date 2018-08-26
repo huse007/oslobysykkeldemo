@@ -10,6 +10,7 @@ git clone https://github.com/huse007/oslobysykkeldemo.git
 The program requires a python3 interpreter and the following dependencies/python libraries:     
 * requests==2.18.4  
 * PyQt5==5.11.2    
+  
 and a valid Client-Identifier from https://developer.oslobysykkel.no/api.  
 Replace "MY-CLIENT-IDENTIFIER" with your api key.  
 ```sh
