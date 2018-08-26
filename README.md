@@ -17,7 +17,7 @@ Replace MY-CLIENT-IDENTIFIER with your api key.
 headers = {"Client-Identifier":"MY-CLIENT-IDENTIFIER"}
 ```
 
-Installation using pip:
+Installation dependencies using pip:
 ```sh
 pip3 install requests PyQt5 --user
 ```
