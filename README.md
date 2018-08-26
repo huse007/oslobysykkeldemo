@@ -11,8 +11,8 @@ The program requires a python3 interpreter and the following dependencies/python
 requests==2.18.4  
 PyQt5==5.11.2    
 
-and a valid Client-Identifier from https://developer.oslobysykkel.no/api.
-Replace "MY-CLIENT-IDENTIFIER" with your api key.
+and a valid Client-Identifier from https://developer.oslobysykkel.no/api.  
+Replace "MY-CLIENT-IDENTIFIER" with your api key.  
 ```sh
 headers = {"Client-Identifier":" MY-CLIENT-IDENTIFIER "}
 ```
