@@ -25,7 +25,7 @@ Alternatively, using Ubuntu:
 ```sh
 sudo apt install python3-requests python3-pyqt5
 ```
-## Usage  
+### Usage  
 Run code:
 ```sh
 python3 oslobysykkeldemo.py
