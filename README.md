@@ -32,7 +32,7 @@ python3 oslobysykkeldemo.py
 
 ### Comments
 The application requires internet connectivity, since it uses 
-public REST API from http://developer.oslobysykkel.no/api/v1
+public REST API from https://oslobysykkel.no/api/v1
 
 ## Authors
 * **Anders Pedersen** - *Initial work* -[huse007](https://github.com/huse007)
