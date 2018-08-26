@@ -3,9 +3,9 @@ A python Qt5 desktop app for checking available bikes and locks from Oslo Bysykk
 
 ## Getting started
 ```sh
-python3 oslobysykkeldemo.py
+git clone https://github.com/huse007/oslobysykkeldemo.git
 ```
-### Prerequisities
+### Prerequisites
 The program requires the following dependencies/python libraries:
   
 requests==2.18.4  
@@ -23,8 +23,13 @@ pip3 install requests PyQt5 --user
 or
 ```sh
 pip3 install requests  
-sudo apt install python3-pyqt5  
+sudo apt install python3-pyqt5
 ```
+Run code:
+```sh
+python3 oslobysykkeldemo.py
+```
+
 ### Comments
 The application requires internet connectivity, since it uses 
 public REST API from http://developer.oslobysykkel.no/api/v1
