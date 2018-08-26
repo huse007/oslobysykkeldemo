@@ -15,4 +15,4 @@ pip3 instal requests
 sudo apt install python3-pyqt5
 
 ## Authors
-* **Anders Pedersen ** - *Initial work* 
+* **Anders Pedersen** - *Initial work* -[huse007](https://github.com/huse007)
