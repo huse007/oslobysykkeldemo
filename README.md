@@ -12,9 +12,9 @@ The program requires a python3 interpreter and the following dependencies/python
 * PyQt5==5.11.2    
   
 and a valid Client-Identifier from https://developer.oslobysykkel.no/api.  
-Replace "MY-CLIENT-IDENTIFIER" with your api key.  
+Replace MY-CLIENT-IDENTIFIER with your api key.  
 ```sh
-headers = {"Client-Identifier":" MY-CLIENT-IDENTIFIER "}
+headers = {"Client-Identifier":"MY-CLIENT-IDENTIFIER"}
 ```
 
 Installation using pip:
