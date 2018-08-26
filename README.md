@@ -2,8 +2,9 @@
 An app for checking available bikes and locks at a given location
 
 ## Getting started
+```sh
 python3 oslobysykkeldemo.py
-
+```
 ### Prerequisities
 The program requires:  
 requests==2.18.4  
