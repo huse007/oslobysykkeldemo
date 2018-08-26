@@ -10,7 +10,7 @@ The program requires the following dependencies/python libraries:
   
 requests==2.18.4  
 PyQt5==5.11.2  
-
+Python interpreter  
 and a valid Client-Identifier from https://developer.oslobysykkel.no/api.
 Replace "MY-CLIENT-IDENTIFIER" with your api key.
 ```sh
