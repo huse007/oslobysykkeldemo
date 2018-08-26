@@ -2,7 +2,6 @@ import requests
 import json
 import locale
 import sys
-#from PyQt5.QtCore import *
 from PyQt5.Qt import *
 from PyQt5.QtWidgets import QDialog, QApplication, QLabel, QComboBox, QVBoxLayout, QMessageBox
 

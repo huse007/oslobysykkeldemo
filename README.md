@@ -17,13 +17,13 @@ Replace "MY-CLIENT-IDENTIFIER" with your api key.
 headers = {"Client-Identifier":" MY-CLIENT-IDENTIFIER "}
 ```
 
+Installation using pip:
 ```sh
 pip3 install requests PyQt5 --user
 ```
-or
+Alternatively, using Ubuntu:
 ```sh
-pip3 install requests  
-sudo apt install python3-pyqt5
+sudo apt install python3-requests python3-pyqt5
 ```
 Run code:
 ```sh
